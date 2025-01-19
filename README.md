@@ -25,4 +25,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sahadsaad950/currency-converter.git
+   git clone https://github.com/web3saad/currency-converter.git
